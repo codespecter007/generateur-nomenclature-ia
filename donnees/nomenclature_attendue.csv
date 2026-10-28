@@ -1,0 +1,12 @@
+Reference,Designation,Quantite,SousEnsemble,Poste,Statut
+VX1-PAG-001,Caisson de porte avant gauche,1,Structure,P10,inchangée
+VX1-PAG-002,Renfort anti-intrusion,1,Structure,P10,inchangée
+VX1-PAG-003,Mécanisme lève-vitre électrique,1,Lève-vitre,P11,inchangée
+VX1-PAG-004,Vitre latérale avant gauche,1,Lève-vitre,P11,inchangée
+VX1-PAG-005,Serrure de porte,1,Fermeture,P11,inchangée
+VX1-PAG-006,Vis M6 x 16,10,Fixations,P10,quantité modifiée
+VX1-PAG-007,Garniture intérieure de porte,1,Habillage,P12,inchangée
+VX1-PAG-008,Poignée intérieure,1,Habillage,P12,inchangée
+VX1-PAG-014,Agrafe de garniture,2,Habillage,P12,ajoutée
+VX1-PAG-015,Haut-parleur 2 voies,1,Audio,P12,remplace VX1-PAG-009
+VX1-PAG-016,Joint d'étanchéité de porte,1,Étanchéité,P11,ajoutée
