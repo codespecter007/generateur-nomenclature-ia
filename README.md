@@ -1,5 +1,12 @@
 # Générateur de nomenclature et de dossiers de montage assisté par l'IA
 
+## Démonstration
+https://github.com/user-attachments/assets/29e2154b-422c-4f9d-8ab8-f981e7aa73b6
+
+![Liste des pièces](captures/capture02)
+![Formulaire de validation](captures/Capture04)
+![Dossier de montage généré](captures/Capture03_)
+
 Projet personnel : à partir d'une présentation de revue de conception (PowerPoint), produire la **nomenclature des pièces** (BOM), la faire **valider par l'équipe métier** dans une application **Power Apps**, puis générer automatiquement le **dossier de montage** d'un sous-ensemble avec **Power Automate**.
 
 > Toutes les données sont **fictives** (véhicule concept « VX-1 »). Projet réalisé à titre personnel, sans lien avec une entreprise.
@@ -7,6 +14,10 @@ Projet personnel : à partir d'une présentation de revue de conception (PowerPo
 ## Architecture
 
 ```
+
+https://github.com/user-attachments/assets/0fd0d44c-d4d8-4b6a-aade-76a5a31a07a8
+
+
 PowerPoint de revue de conception
         │
         ▼
